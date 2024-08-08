@@ -1,0 +1,13 @@
+.idea/
+.vscode/
+.cmake/
+CMakeCache.txt
+CMakeFiles/
+build.ninja
+cmake_install.cmake
+build
+ninja_deps
+.ninja_log
+DA_Project.exe
+cmake-build-debug/
+Testing/
